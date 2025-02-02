@@ -3,7 +3,7 @@ I developed a comprehensive project in PowerBi, creating multiple dashboards and
 
 ## Blinkit Sales Analysis - Power BI Dashboard
 
-
+![image alt](https://github.com/Sheetal6378/DataAnalystProject/blob/772dd9624eaadc9138a4939afa3272c93ed79ffe/Screenshot%20(87).png)
 
 ## Project Overview
 
